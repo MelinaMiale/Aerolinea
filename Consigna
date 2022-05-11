@@ -1,0 +1,15 @@
+UNLaM
+Programación Básica 2 - Programación Avanzada
+Primer Parcial: 11/05/2022
+Consignas
+Proyecto
+Deberá nombrar el proyecto con la siguiente estructura:
+● PB2-TM-ApellidoNombre1-ApellidoNombre2
+A resolver
+1. Que se pueda comprar un pasaje para un pasajero en un vuelo.
+2. Que no se pueda comprar 2 pasajes para el mismo pasajero y vuelo.
+3. Que a los pasajeros VIP se les aplique un 5% de descuento.
+4. Que se pueda asignar un asiento para un pasajero en un vuelo.
+5. Que no se pueda asignar un asiento a un vuelo si el asiento está ocupado.
+6. Que no se pueda asignar un asiento si el avión ya despegó.
+7. Que se pueda obtener una lista de pasajeros que no volaron.
